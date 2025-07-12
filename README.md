@@ -174,3 +174,20 @@ Directory fuzzing (ffuf, feroxbuster)
 
 GitHub Actions for CI-based scanning
 
+
+Contributions are welcome! To contribute:
+
+Fork this repository
+
+Create a feature branch (git checkout -b new-feature)
+
+Commit your changes (git commit -am 'Add feature')
+
+Push to the branch (git push origin new-feature)
+
+Create a new Pull Request
+
+Found a bug? Open an issue
+
+All skill levels are welcome — just follow the spirit of ethical hacking
+
