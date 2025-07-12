@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.sqlite
+.env
+venv/
+crawlfuzz_results/
