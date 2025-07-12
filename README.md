@@ -34,6 +34,9 @@ pip install -r requirements.txt
 
 Tools you'll need to installed:
 
+requests
+beautifulsoup4
+
 gau
     
 waybackurls
