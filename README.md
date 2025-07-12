@@ -20,11 +20,11 @@
 
  Full Engagement:
 
-python3 crawlfuzz2.py -u https://target.com --deep --waf-bypass --fuzz
+python3 crawlfuzz.py -u https://target.com --deep --waf-bypass --fuzz
 
 Bug Bounty Fast-Mode:
 
-python3 crawlfuzz2.py -u https://target.com --deep --waf-bypass --fuzz --fast-nuclei
+python3 crawlfuzz.py -u https://target.com --deep --waf-bypass --fuzz --fast-nuclei
 
 
   Flag	                Description
